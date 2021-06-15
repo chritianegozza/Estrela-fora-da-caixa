@@ -1,0 +1,55 @@
+body {
+ background-image: url('http://pavbca.com/walldb/original/0/1/0/5430.jpg');
+ background-repeat: no-repeat;
+ background-position: center top;
+ background-size: cover;
+ margin: 0;
+ min-height: 320px;
+ width: 100%;
+   
+}
+
+.container {
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+ margin: 50px;
+ padding: 30px;
+    
+}
+       
+h1 {
+ color: white;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size: 40px;
+ text-align: center;
+ text-shadow: 0 0 0.2em #8F7
+   
+}       
+   
+.nome-personagem1 {
+ align-items: center;
+ font-family: EuclidBold;
+ font-size: 12px;
+ font-weight: 700;
+ letter-spacing: -0.6px;
+ line-height: 15px;
+ padding: 9px 23px;
+ text-transform: uppercase;
+           
+}
+   
+.vermelho img {
+ max-width: 100%;
+   
+}
+   
+.vermelho {
+ background-color: #D0E4D3;
+ box-shadow: 0px 0px 6px #393F35;   
+ background-color: whitesmoke;   
+ margin: 50px auto;
+ padding:10px;
+ text-align: center;
+   
+}
+   
