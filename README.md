@@ -11,3 +11,11 @@ Projeto para  consumir os dados da API
 
 
 
+
+
+link do projeto 
+
+https://conheca-os-personagens-do-desenho-rick-e-morty.christianegozza.repl.co/
+
+
+
